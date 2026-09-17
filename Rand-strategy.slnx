@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rand-strategy/Rand-strategy.vcxproj" Id="8853c807-8f8d-4007-afdd-1eb3fcc2adf4" />
+</Solution>
